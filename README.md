@@ -1,1 +1,2 @@
 # Travel Log
+In this tutorial we are going to build a simple travel log app, in which users will be able to save all the places they have visited. This app is build utilizing the MERN Stack, and Mapbox. This tutorial is heavily inspired by Coding Garden with CJ
